@@ -2,6 +2,7 @@
 
 ## 政治
 https://www.marxists.org/chinese/reference-books/index-class-struggling.htm
+阶级斗争文献： https://www.marxists.org/chinese/reference-books/index-class-struggling.htm
 
 ## 各种书籍
 https://github.com/HarborLibrary/Political-Science
